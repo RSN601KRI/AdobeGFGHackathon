@@ -1,7 +1,3 @@
-Here's a README file for your project, "Curvetopia: A Journey into the World of Curves". This README provides an overview of the project, its objectives, and how to use the provided code.
-
----
-
 # Curvetopia: A Journey into the World of Curves
 
 Welcome to **Curvetopia**, a project designed to bring order and beauty to the world of 2D curves. This project focuses on identifying, regularizing, and beautifying curves in 2D Euclidean space, starting with simple closed curves and extending to more complex shapes.
